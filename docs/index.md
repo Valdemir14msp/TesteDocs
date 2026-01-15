@@ -1,10 +1,8 @@
-# Documentação do Servidor OCPP 1.6
+# Documentação do Projeto
 
-Este site reúne a documentação técnica do projeto desenvolvido
-como Trabalho de Conclusão de Curso.
+Bem-vindo à documentação técnica do projeto.
 
-## Seções
-- Arquitetura do Sistema
-- Fluxos do Node-RED
-- Banco de Dados
-- Protocolo OCPP
+## 📑 Conteúdo
+- [Arquitetura do Sistema](arquitetura.md)
+- [Fluxos do Node-RED](node-red.md)
+- [Banco de Dados](banco-de-dados.md)

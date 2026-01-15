@@ -1,0 +1,17 @@
+site_name: Servidor OCCPP - Documentação
+site_description: Documentação técnica do projeto
+site_author: Valdemir Nunes de Miranda
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Início: index.md
+  - Arquitetura: arquitetura.md
+  - Node-RED: home.md
